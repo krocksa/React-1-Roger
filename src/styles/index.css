@@ -1,10 +1,49 @@
+body{
+    background: black;
+}
 .navbar-collapse{
     padding-left: 63.5%;
 
 }
 .head{
     width: 1200px;
-    height: 300px;
+    height: 260px;
     background: #d8d8d8;
-    padding-top: 1%;
+}
+.body{
+    width: 1200px;
+    height: 260px;
+    position: relative;
+    background: white;  
+    text-align: center;
+    margin: auto;
+    padding: 10px;   
+}
+.row-int{
+    margin: auto;
+}
+.col-int{
+    padding-right: 1%;
+    margin: auto;
+    height: 240px;
+    width: 100px;
+    border: 1px solid #000;
+}
+.col-int2{
+    margin: auto;
+    height: 240px;
+    width: 200px;
+    border: 1px solid #000;
+}
+.col-int3{
+    margin: auto;
+    height: 240px;
+    width: 200px;
+    border: 1px solid #000;
+}
+.col-int4{
+    margin: auto;
+    height: 240px;
+    width: 200px;
+    border: 1px solid #000;
 }

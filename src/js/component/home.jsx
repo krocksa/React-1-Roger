@@ -36,9 +36,27 @@ const Home = () => {
 		A Warm Welcome!
 	</h1>
 	<br />
-	<h4>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut dolor iusto dicta voluptate reprehenderit, dignissimos architecto ipsa explicabo consequatur nesciunt doloremque impedit inventore placeat cum reiciendis ea, veritatis tempora. Error.</h4><br />
+	<h5>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut dolor iusto dicta voluptate reprehenderit, dignissimos architecto ipsa explicabo consequatur nesciunt doloremque impedit inventore placeat cum reiciendis ea, veritatis tempora. Error.</h5><br />
 	<button type="button" class="btn btn-primary btn-lg">Call to action!</button>
 </div>
+<div class=" container body">
+    <div class="row row-max">
+      <div class="col col-max">
+        <div class="row row-int">
+          <div class="col col-int">
+
+          </div>
+      <div class="col col-int">
+      </div>
+      <div class="col col-int">
+      </div>
+      <div class="col col-int">
+      </div>
+        </div>
+    </div>
+      </div>
+</div>
+
 		</>
 	);
 };
