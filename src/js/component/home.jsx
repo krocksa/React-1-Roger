@@ -13,11 +13,11 @@ const Home = () => {
 		<>
 		<Navbar />
 
-    <Head />
+		<Head />
 
-    <Body />
+		<Body />
 
-    <Footer/>
+		<Footer/>
 		</>
 	);
 };
